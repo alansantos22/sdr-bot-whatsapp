@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot-local",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp local para atendimento automático",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.35.0",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
